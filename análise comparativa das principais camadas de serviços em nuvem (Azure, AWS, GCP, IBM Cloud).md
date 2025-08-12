@@ -50,5 +50,4 @@ Análise comparativa das **principais camadas de serviços em nuvem (Azure, AWS,
 * **Melhor custo/infraestrutura por 1–2 anos (MVP)**: **GCP** — infra eficiente com CUD, preço transparente e integração fluida com Vertex AI.
 * **Melhor reuso multi-tenant escalável**: **Azure** — permite PTUs, modelo reservado, integração de serviços cognitivos e deployments regionais.
 * **AWS** tem flexibilidade e diversidade de modelos; vantagem maior em longo prazo com custom chips (Trainium) e otimização de custo.
-  ([Amazon Web Services, Inc.][8], [Google Cloud][6], [Google Cloud][9], [cloudwards.net][10], [time.com][11])
 * **IBM**: robusto para nichos corporativos, mas custo mais alto do que os demais, com menor flexibilidade inicial.

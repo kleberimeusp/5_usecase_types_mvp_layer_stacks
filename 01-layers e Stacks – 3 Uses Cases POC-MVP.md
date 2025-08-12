@@ -1,4 +1,4 @@
-# **Layers e Stacks – 3 Casos Reais MVP**
+# **Layers e Stacks – 3 Uses Cases POC-MVP**
 
 ---
 
